@@ -1,5 +1,5 @@
 #Install
-1. Clone Project from github.
+1. git clone https://github.com/Shakib210/sct.git
 2. cd SCL-BANGLA
 3. npm i 
 4. npm start
